@@ -3,7 +3,7 @@ package tech.getarrays.employeeManager.model;
 import javax.persistence.*;
 import java.io.Serializable;
 
-// Restart at 29min
+// Restart at 1:03:00min
 @Entity
 public class Employee implements Serializable {
     @Id
